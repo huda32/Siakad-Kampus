@@ -52,7 +52,7 @@
                 </div>
 
                 <div class="form-group">
-                        <label>Nama Dosen</label>
+                        <label>Nama Dosen nya</label>
                         <input name="nama_dosen"  class="form-control" placeholder="Nama Dosen" >
                 </div>
               
